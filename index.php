@@ -2,15 +2,16 @@
 <html lang="en">
 
 <head>
+    <!-- Meta updated by Little Gyaani (BRAHMA) {P/WA - +91 9853 233 951 L - https://www.linkedin.com/in/brahmanmohanty G - https://www.github.com/LittleGyaani T - https://www.twitter.com/LittleGyaani F - https://www.facebook.com/brahmanmohanty} W - https://www.meetlittlegyaani.com/ E - bmohanty@live.com -->
     <!-- Meta Tags -->
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
     <!-- Author -->
     <meta name="author" content="Little Gyaani">
     <!-- description -->
-    <meta name="description" content="Wixer is a highly creative, modern, visually stunning and Bootstrap responsive multipurpose agency and portfolio HTML5 template with 72 ready home page demos.">
+    <meta name="description" content="AMA CHHATA BHAI PRATISTHAN">
     <!-- keywords -->
-    <meta name="keywords" content="creative, modern, clean, bootstrap responsive, html5, css3, portfolio, blog, agency, templates, multipurpose, one page, corporate, start-up, studio, branding, designer, freelancer, carousel, parallax, photography, personal, masonry, grid, faq">
+    <meta name="keywords" content="ngo, trust, foundation">
 
     <title>AMA CHHATA BHAI PRATISTHAN</title>
 
